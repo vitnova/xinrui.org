@@ -271,6 +271,9 @@ body {
 .article-entry dt {
   font-weight: bold;
 }
+.article-entry img {
+  border: 1px solid #ddd;
+}
 #header {
   height: 300px;
   position: relative;
